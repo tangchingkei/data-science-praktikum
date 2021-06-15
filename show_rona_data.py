@@ -16,6 +16,8 @@ only_pain["date"] = pd.to_datetime(only_pain["date"], yearfirst=True)
 #group by week -> each group gets mean cases of it's days assigned
 grouped_pain = only_pain.groupby([pd.Grouper(key="date", freq= "W")]).mean()
 
+#turn negative values positive
+grouped_pain["new_cases"] = grouped_pain["new_cases"].map(lambda x: abs(x), na_action="ignore")
 #plot
 f = sns.relplot(data = grouped_pain, x = "date", y= "new_cases", kind="line")
 f.fig.autofmt_xdate()
