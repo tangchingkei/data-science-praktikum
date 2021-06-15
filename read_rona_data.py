@@ -9,10 +9,11 @@ import os
 import pandas as pd
 
 #change to directory where the files are stored
-os.chdir("C:/Users/JonathanW/Projects/Spyder/PraktikumDataScience/Rona_Data")
+#os.chdir("C:/Users/JonathanW/Projects/Spyder/PraktikumDataScience/Rona_Data")
 
 
 #import data from csv
+"""
 testing = pd.read_csv("covid-19-testing-policy.csv")
 vaccination = pd.read_csv("covid-vaccination-policy.csv")
 face_cover = pd.read_csv("face-covering-policies-covid.csv")
@@ -20,6 +21,7 @@ events = pd.read_csv("public-events-covid.csv")
 transport = pd.read_csv("public-transport-covid.csv")
 school_closures = pd.read_csv("school-closures-covid.csv")
 stay_home = pd.read_csv("stay-at-home-covid.csv")
+"""
 
 owid = pd.read_csv("owid-covid-data.csv")
 
