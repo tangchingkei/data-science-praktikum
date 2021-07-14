@@ -1,0 +1,65 @@
+South Korea
+Seen Pattern: 
+01.20 – 04.20:  In Korea, there was already some high level for lockdown but the number decreased as soon as travel restriction was there. (Lockdown effective)
+08.20 – 09.20: despite the high restrictions, number increased because of a illegal acts against covid-19 virus led by a politician. (No method is effective)
+01.21: number increased because of organization which is like a boarding school. No one followed the policies against covid-19. (No method is effective)
+02.21: 1st February in Korea, it is a one of important holiday where whole families gather together. Many people did not follow the policies but the number decreased as soon as the lockdown level increased. (lockdown effective)
+
+In general, high lockdown level was effective against corona infection. (03.20 and 01.21)
+
+Limitation:
+-	Political action
+-	Some organization which do not follow the policies.
+ 
+ 
+Russia
+Seen Pattern:
+02.20 – 04.20: there were only travel restrictions. The number starts to increase despite the high level of lockdown. The number decreases because of mask restriction.
+05.20 – 06.20: number does not seem to decrease when the travel level got lower. The travel level got then higher and the number starts to decrease again (travel restrictions)
+10.20: as soon as the level of travel level gets lower, the number starts to increase. (travel restrictions)
+02.21: vaccination was the most effective method. Still, we can’t trust the number. (vaccination)
+
+Limitation:
+-	Russia hid the number of  reported number of infection and death toll. (a New York Times analysis of mortality data shows deaths in Russia during the pandemic last year were 28 percent higher than normal)
+-	People didn’t take the policies seriously.
+ 
+ 
+Italy
+Seen Pattern:
+04.20: the number started to increase. As soon as travel restrictions level got higher, the number starts to decrease and more than before by the high mask restriction. (travel + mask effective)
+11.20: as soon as the travel restrictions level got lower, the number starts to increase.
+01.21: vaccination seems to lower the number which increased again in April but then starts to decrease again the more vaccination restriction level got higher.
+Limitation:
+-	Not proper regulation for testing people. (when a sick 38-year-old man visited his family doctor in mid-February before then making several visits to the local hospital, he wasn't tested for the virus because he hadn't been in China.)
+-	elderly population; 
+-	a social structure in which the young often live with the old, exposing them to the virus; 
+-	an underfunded health system; 
+-	a lack of preparedness and organisation. (“During the summer, when daily cases were low, we failed to recruit more staff and made no plan to reorganise,” the Naples doctor Cappiello said.)
+-	people and the government didn’t take the virus seriously.
+
+ 
+ 
+Australia
+Seen Pattern:
+04.20: it clearly shows that the strict lockdown restriction and travel restriction got the situation in control. (travel + lockdown)
+08.20: The number starts for some reason but then it decreased by the strict stay-at-home for 3 weeks and face covering level got higher. (lockdown + mask)
+
+In general: much better than other developed countries in keeping its covid-19 numbers low.
+
+Limitation:
+ 
+
+ 
+Spain
+Seen Pattern:
+04.20: the number of cases starts to increase but then gets lowered by lockdown and travel restriction.
+07.20: as soon as the lockdown and travel restriction level got lowered, the numbers starts to increase. High level of face covering doesn’t seem to help. 
+11.20: the number of cases starts to decreases. Travel and face covering restrictions seemed to work. (mask + travel)
+12.20: vaccination seems to work. According to a report, spain managed on 3 May to achieve the government’s objective to have at least 5 million people fully vaccinated for the first week of May, more than 10% of the total population.
+
+Limitation:
+-	young people didn’t take the virus seriously. 
+-	The government loosened the restrictions such as curfew, shutting down nightlife, obligatory mask wearing too early. -> a false sense of security and social interaction that is not protected.
+ 
+
+
