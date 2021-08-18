@@ -23,4 +23,4 @@ The jupyterNotebook final.ipynb reads data from the folder data/ and plots graph
 
 ## Result
 
-The result of analysis is summarised in the Final_Report.pdf.
+Due to confidentiality reason the summary which includes authors' names will not be published publicly. If you are interested on seeing the report please contact me.
